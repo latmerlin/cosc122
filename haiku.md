@@ -10,5 +10,5 @@ great
 
 what are your favorite movies
 
--jurassic world
--venna
+-good jurassic world
+-good venna
